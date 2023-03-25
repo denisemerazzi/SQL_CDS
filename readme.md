@@ -1,4 +1,4 @@
-*Estudo de caso - Olist* 
+**Estudo de caso - Olist** 
   
 **Contexto** 
 
