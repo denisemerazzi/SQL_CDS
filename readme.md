@@ -36,6 +36,6 @@ Os dados estão em formato .csv e organizados nas seguintes tabelas:
 - Criação de um relatório semanal e envio por email para o time d enegócios.
 
 **Conclusão:**
-- Foram gerados 8 relatórios diferentes, utilizando a lingUagem SQL, que proporcionaram um melhor entendimento sobre as informações relacionadas aos clientes, produtos, preços, vendedores, entregas e trazendo uma melhor organização tanto de estoque quanto de vendas, entrega de produtos e satisfação de clientes e vendedores.
+- Foram gerados 8 relatórios diferentes, utilizando a linguagem SQL, que proporcionaram um melhor entendimento sobre as informações relacionadas aos clientes, produtos, preços, vendedores, entregas e trazendo uma melhor organização de estoque, vendas, entrega de produtos e satisfação de clientes e vendedores.
 
 Este estudo de caso foi desenvolvido junto à Comunidade DS, fazendo parte da minha Trilha de estudos para Data Science.
