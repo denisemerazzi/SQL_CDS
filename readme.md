@@ -13,7 +13,7 @@ Explorar os dados e trazer respostas sobre o que realmente está acontecendo com
 
 **Dados:** 
 
-Datasets Olist, disponível na Plataforma Kaggle.
+Datasets Olist, disponíveis na Plataforma Kaggle.
 Os dados estão em formato .csv e organizados nas seguintes tabelas:
 - customer (informações dos clientes) 
 - geolocation (informações sobre localização)
@@ -28,12 +28,12 @@ Os dados estão em formato .csv e organizados nas seguintes tabelas:
 **Planejamento da solução:**
 
 - FERRAMENTAS:
-- Linguagem SQL, DBeaver, SQLIte
+- Linguagem SQL, DBeaver, SQLite
 - PROCEDIMENTOS:
 - Coleta de dados e armazenamento em um Banco de Dados Relacional (SQLite).
-- Realizar as Querys (consultas), organizando os dados em novas tabelas através do agrupamento de colunas de diferentes tabelas (JOiN).
+- Realizar as Querys (consultas), organizando os dados em novas tabelas através do agrupamento de colunas de diferentes tabelas (JOIN).
 - ENTREGA DE RESULTADOS:
-- Criação de um relatório semanal e envio por email para o time d enegócios.
+- Criação de um relatório semanal e envio por email para o time de negócios.
 
 **Conclusão:**
 - Foram gerados 8 relatórios diferentes, utilizando a linguagem SQL, que proporcionaram um melhor entendimento sobre as informações relacionadas aos clientes, produtos, preços, vendedores, entregas e trazendo uma melhor organização de estoque, vendas, entrega de produtos e satisfação de clientes e vendedores.
